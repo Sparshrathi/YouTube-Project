@@ -13,8 +13,10 @@ function App() {
 
         <Switch>
           <Route path="/search/:searchTerm">
-          <Sidebar />
-          <SearchPage />
+            <div className="app_page">
+              <Sidebar />
+              <SearchPage />
+            </div>
           </Route>
         
           <Route path="/">

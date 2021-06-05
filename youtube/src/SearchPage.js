@@ -1,10 +1,17 @@
-import React from 'react'
-
+import React from 'react';
+import "./SearchPage.css";
+import TuneIcon from '@material-ui/icons/Tune';
 function SearchPage() {
     return (
-        <div>
-            
+        <div className="SearchPage">
+            <div className="SearchPage_filter">
+                <TuneIcon />
+                <h2>FILTER</h2>
+            </div>
+            <hr />
+
         </div>
+
     )
 }
 
