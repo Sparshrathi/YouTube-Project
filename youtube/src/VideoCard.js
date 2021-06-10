@@ -2,10 +2,11 @@ import React from 'react'
 import Avatar from "@material-ui/core/Avatar";
 import "./VideoCard.css"
 
-function VideoCard({image, title , channel ,views ,timestamp, channelImage}) {
+function VideoCard({image, title , channel ,views ,timestamp, channelImage ,ThumVideo}) {
     return (
         <div className="VideoCard">
-            <img className="VideoCard_thumbnail" src={image} alt="" />
+            <img className="VideoCard_thumbnail" src={image} alt="" onMouseOver={e => e.currentTarget.src = ThumVideo} onMouseOut={e => e.currentTarget.src = image} />
+
             <div className="VideoCard_info">
                 <Avatar
                 className="videoCard_avatar"

@@ -27,7 +27,8 @@ function SearchPage() {
         <VideoRow  
         subs="254K"
         description="Ragnarok is a Norwegian-language fantasy drama series"
-        image="https://i.ytimg.com/an_webp/0m_e-s6YQ4Q/mqdefault_6s.webp?du=3000&sqp=CKjh84UG&rs=AOn4CLAbUbVbISsKqaZy47MQxiY0VM73Kw"
+        ThumVideo="https://i.pinimg.com/originals/87/58/69/8758693058eaee1cffcb8bae942fae73.gif"
+        image="https://wallpapercave.com/wp/wp3787493.jpg"
         title="Thor Ragnarok Trailer"
         channel="Marvel Entertainment"
         views="105M"
@@ -37,7 +38,8 @@ function SearchPage() {
         <VideoRow  
         subs="2M"
         description="The CHIRON is the fastest, most powerful, and exclusive production super sports car in BUGATTI's history. Its sophisticated design, innovative technology"
-        image="https://i.ytimg.com/an_webp/5dJmua4ykdA/mqdefault_6s.webp?du=3000&sqp=CODH84UG&rs=AOn4CLB6_04SOQVSc2xllNeDQhgmy3FlfQ"
+        ThumVideo="https://64.media.tumblr.com/4069ce0c8dfe6c611c7ab23e4888816d/tumblr_otxmh5aBdB1rnxn7co1_500.gifv"
+        image="https://newsroom.bugatti/var/assets/press-releases/2021-1/210520-bugatti-shiron-sport-les-legendes-du-ciel-rafale-marine-landivisiau/1024xauto-q80/01_chiron-sport-ldc-rafale-marine.jpg"
         title="BUGATTI Chiron 0-400-0 km/h in 42 seconds – A WORLD RECORD #IAA2017"
         channel="Lost Songs"
         views="11M"
@@ -47,7 +49,8 @@ function SearchPage() {
         <VideoRow  
         subs="505K"
         description="God of War is an upcoming third-person action-adventure video game in development by Santa Monica Studio and to be published by Sony Interactive"
-        image="https://i.ytimg.com/an_webp/iDSqnPbC5_8/mqdefault_6s.webp?du=3000&sqp=CLjg84UG&rs=AOn4CLDkzwrMDyS3L1up_5LigS6jIZYgeg"
+        ThumVideo="https://thumbs.gfycat.com/AdmirableBlackFritillarybutterfly-size_restricted.gif"
+        image="https://1734811051.rsc.cdn77.org/data/images/full/378521/god-of-war-ragnarok-available-soon-on-ps4-and-ps5-plot-release-date-and-trailer-video.jpg"
         title="GOD OF WAR: THE LEGEND CONTINUES"
         channel="CarryisLive "
         views="1M"
@@ -57,7 +60,8 @@ function SearchPage() {
         <VideoRow  
         subs="20M"
         description="Google releases a major software update to its Android mobile operating system. Last year, it rolled out Android 11. In 2021, it's announced Android 12,"
-        image="https://i.ytimg.com/an_webp/NWSUcGbQaZs/mqdefault_6s.webp?du=3000&sqp=CLKc84UG&rs=AOn4CLCNzy68DsZG9xhr4cBV-26vWHl11A"
+        ThumVideo="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/3._Android_12_Color_Extraction.gif"
+        image="https://www.androidpolice.com/wp-content/uploads/2021/02/19/Android-12-photo-hero-1-scaled.jpg"
         title="Android 12 Is Here - Crazy 12 New Features🔥🔥🔥"
         channel="technical guruji"
         views="15M"
@@ -67,7 +71,8 @@ function SearchPage() {
         <VideoRow  
         subs="25M"
         description="Mercedes-Benz S-Class TV Commercial, 'Thinking' Featuring Alicia Keys [T1] Work, schedule and fame are the last things on Alicia Keys's mind as she drives down the oceanside with her children."
-        image="https://i.ytimg.com/an_webp/KitQQHm0Eoc/mqdefault_6s.webp?du=3000&sqp=CMeN84UG&rs=AOn4CLAGudHAFIrMX201xuJyR5JQ-B9ETw"
+        ThumVideo="https://64.media.tumblr.com/5d1d59e1031b30b6a16d6f060304f059/tumblr_mgff0flBC11rkfvqno1_500.gifv"
+        image="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4Iwum5RSzGMO0WtoJPSCc5OiPKJxcmRsVOA&usqp=CAU"
         title="The New S-Class: World Premiere | Trailer"
         channel="Mercedes benz "
         views="1M"

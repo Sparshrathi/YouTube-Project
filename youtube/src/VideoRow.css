@@ -5,9 +5,9 @@
 }
 
 .VideoRow > img {
-    object-fit: contain;
+    object-fit:contain;
     width: 246px;
-    height: 138px;
+    height: 160px;
 }
 
 .VideoRow_text{
